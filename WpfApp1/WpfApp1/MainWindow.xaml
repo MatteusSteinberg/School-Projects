@@ -1,0 +1,38 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="lblFirstName" Content="First Name:" HorizontalAlignment="Left" Margin="90,107,0,0" VerticalAlignment="Top" Height="24" Width="80"/>
+        <Label x:Name="lblLastName" Content="Last Name:" HorizontalAlignment="Left" Margin="90,136,0,0" VerticalAlignment="Top" Height="24" Width="80"/>
+        <TextBox x:Name="txtFirstName" HorizontalAlignment="Left" Margin="175,113,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="18"/>
+        <TextBox x:Name="txtLastName" HorizontalAlignment="Left" Margin="175,142,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="18"/>
+        <Button x:Name="btnSubmit" Content="Submit" HorizontalAlignment="Left" Margin="90,238,0,0" VerticalAlignment="Top" Click="btnSubmit_Click" Height="20" Width="42"/>
+        <Label x:Name="lblMyNameIs" Content="" HorizontalAlignment="Left" Margin="557,41,0,0" VerticalAlignment="Top" Height="26" Width="112"/>
+        <Label x:Name="lblTime" Content="Current Date:" HorizontalAlignment="Left" Margin="458,10,0,0" VerticalAlignment="Top" Height="26" Width="81"/>
+        <Label x:Name="lblTimeResult" Content="" HorizontalAlignment="Left" Margin="544,10,0,0" VerticalAlignment="Top" Width="125" Height="26"/>
+        <Label x:Name="lblDOB" Content="DOB:" HorizontalAlignment="Left" Margin="90,165,0,0" VerticalAlignment="Top" Height="26" Width="37"/>
+        <Label x:Name="lblSchool" Content="School Start:" HorizontalAlignment="Left" Margin="90,196,0,0" VerticalAlignment="Top" Height="26" Width="76"/>
+        <CheckBox x:Name="boxDob" Content="" HorizontalAlignment="Left" Margin="300,174,0,0" VerticalAlignment="Top" Checked="boxDob_Checked" Unchecked="boxDob_Unchecked" Height="15" Width="20"/>
+        <Calendar x:Name="calDOB" HorizontalAlignment="Left" Margin="325,174,0,0" VerticalAlignment="Top" Visibility="Hidden" Height="168" Width="179"/>
+        <Label x:Name="lblDob1" Content="" HorizontalAlignment="Left" Margin="175,165,0,0" VerticalAlignment="Top" Width="120" Height="26"/>
+        <Calendar x:Name="calSchoolStart" HorizontalAlignment="Left" Margin="325,174,0,0" VerticalAlignment="Top" Visibility="Hidden" Height="168" Width="179"/>
+        <CheckBox x:Name="boxSchoolStart" Content="" HorizontalAlignment="Left" Margin="300,201,0,0" VerticalAlignment="Top" Checked="boxSchoolStart_Checked" Unchecked="boxSchoolStart_Unchecked" Height="15" Width="20"/>
+        <Label x:Name="lblSchoolStart" Content="" HorizontalAlignment="Left" Margin="180,196,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.998,-1.148" Width="115" Height="26"/>
+        <Label x:Name="lblYourName" Content="Your Name:" HorizontalAlignment="Left" Margin="458,41,0,0" VerticalAlignment="Top" Height="26" Width="81"/>
+        <Label x:Name="lblYourAge" Content="Your Age:" HorizontalAlignment="Left" Margin="458,72,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblSchoolStart1" Content="Started School:" HorizontalAlignment="Left" Margin="458,101,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblAgeSchool" Content="Age When School Started:" HorizontalAlignment="Left" Margin="458,133,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblMyAgeIs" Content="" HorizontalAlignment="Left" Margin="532,70,0,0" VerticalAlignment="Top" Width="227"/>
+        <Label x:Name="lblSchoolStartedResult" Content="" HorizontalAlignment="Left" Margin="558,104,0,0" VerticalAlignment="Top" Width="96"/>
+        <Label x:Name="lblMySchoolAge" Content="" HorizontalAlignment="Left" Margin="611,133,0,0" VerticalAlignment="Top" Width="102"/>
+    </Grid>
+</Window>
