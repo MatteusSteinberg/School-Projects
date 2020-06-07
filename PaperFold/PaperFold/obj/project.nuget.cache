@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4F0+5tvM7hHGGMMHRRTstPx5fAZu7OWECOkLltNl3WkSaL95ca4y5ylDwKbJtswCvmjuFrBr8g37g6QrNe2kWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\PaperFold\\PaperFold\\PaperFold.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
