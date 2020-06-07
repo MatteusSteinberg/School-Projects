@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ciX+pvMA/kkEsWCVM/heP8AZ1A8LYPUnvNySY44/TfmReq4BQpJiHV4YEWDfpGEiRbIAQNTljBAX9I49zTUWrA==",
+  "success": true,
+  "projectFilePath": "E:\\Users\\Admin\\source\\repos\\h1spil\\h1spil\\h1spil.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

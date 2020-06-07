@@ -1,0 +1,13 @@
+E:\Users\Admin\source\repos\h1spil\h1spil\bin\Debug\netcoreapp3.1\h1spil.exe
+E:\Users\Admin\source\repos\h1spil\h1spil\bin\Debug\netcoreapp3.1\h1spil.deps.json
+E:\Users\Admin\source\repos\h1spil\h1spil\bin\Debug\netcoreapp3.1\h1spil.runtimeconfig.json
+E:\Users\Admin\source\repos\h1spil\h1spil\bin\Debug\netcoreapp3.1\h1spil.runtimeconfig.dev.json
+E:\Users\Admin\source\repos\h1spil\h1spil\bin\Debug\netcoreapp3.1\h1spil.dll
+E:\Users\Admin\source\repos\h1spil\h1spil\bin\Debug\netcoreapp3.1\h1spil.pdb
+E:\Users\Admin\source\repos\h1spil\h1spil\obj\Debug\netcoreapp3.1\h1spil.csprojAssemblyReference.cache
+E:\Users\Admin\source\repos\h1spil\h1spil\obj\Debug\netcoreapp3.1\h1spil.AssemblyInfoInputs.cache
+E:\Users\Admin\source\repos\h1spil\h1spil\obj\Debug\netcoreapp3.1\h1spil.AssemblyInfo.cs
+E:\Users\Admin\source\repos\h1spil\h1spil\obj\Debug\netcoreapp3.1\h1spil.csproj.CoreCompileInputs.cache
+E:\Users\Admin\source\repos\h1spil\h1spil\obj\Debug\netcoreapp3.1\h1spil.dll
+E:\Users\Admin\source\repos\h1spil\h1spil\obj\Debug\netcoreapp3.1\h1spil.pdb
+E:\Users\Admin\source\repos\h1spil\h1spil\obj\Debug\netcoreapp3.1\h1spil.genruntimeconfig.cache
